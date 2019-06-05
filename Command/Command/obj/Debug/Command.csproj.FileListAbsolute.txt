@@ -1,0 +1,7 @@
+D:\Вероника Романенко\Command\Command\bin\Debug\Command.exe.config
+D:\Вероника Романенко\Command\Command\bin\Debug\Command.exe
+D:\Вероника Романенко\Command\Command\bin\Debug\Command.pdb
+D:\Вероника Романенко\Command\Command\obj\Debug\Command.csprojAssemblyReference.cache
+D:\Вероника Романенко\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\Вероника Романенко\Command\Command\obj\Debug\Command.exe
+D:\Вероника Романенко\Command\Command\obj\Debug\Command.pdb
